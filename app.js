@@ -1,0 +1,1 @@
+console.log('How many pets do you have?') ;
